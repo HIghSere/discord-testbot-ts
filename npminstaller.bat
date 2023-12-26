@@ -1,1 +1,1 @@
-npm instal discord.js @types/node typescript ts-node
+npm install discord.js @types/node typescript ts-node
